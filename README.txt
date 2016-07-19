@@ -66,3 +66,4 @@ Credits:
 		Sass (sass-lang.com)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
+Join the chat at https://gitter.im/Vigilante13/vigilante13.github.io
